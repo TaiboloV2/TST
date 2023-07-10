@@ -1,1 +1,8 @@
 __pycache__
+.vscode
+03_MatLab
+_old
+.ipynb_checkpoints
+papers
+TST_results
+model.pt
